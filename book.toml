@@ -1,0 +1,7 @@
+[book]
+title = "Lean 4 for Security Proofs"
+language = "en"
+src = "."
+
+[output.html]
+git-repository-url = "https://github.com/<you>/lean4-security-proofs"
